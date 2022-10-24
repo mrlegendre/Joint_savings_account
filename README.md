@@ -23,13 +23,13 @@ Test the functionality of the smart contract send the following amounts of ether
 
 
 ## Transaction 1: Send 1 ether as wei.
-![](/Execution_Results/deposit1eth.png)
+![](/Execution_Results/d_1eth_cbalance.png)
 
 ## Transaction 2: Send 10 ether as wei.
-![](/Execution_Results/deposit10eth.png)
+![](/Execution_Results/d_10eth_cbalance.png)
 
 ## Transaction 3: Send 5 ether.
-![](/Execution_Results/deposit5eth.png)
+![](/Execution_Results/d_5eth_cbalance.png)
 
 
 ## Transaction 4: Withdraw 5 ether to accountOne.
