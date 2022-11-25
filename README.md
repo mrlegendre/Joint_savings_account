@@ -1,7 +1,7 @@
 # Joint_savings_account
 ![](/Images/20-5-challenge-image.png)
 
-Module 20 fintech homework.  This assignment automates the creation of joint savings accounts on the Ethereum blockchain. A Solidity smart contract is created that accepts two user addresses. These addresses will be able to control a joint savings account.
+This repository automates the creation of joint savings accounts on the Ethereum blockchain. A Solidity smart contract is created that accepts two user addresses. These addresses will be able to control a joint savings account.
 
 Instructions
 The steps for this homework are divided into the following sections:
