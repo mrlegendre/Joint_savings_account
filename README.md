@@ -4,7 +4,7 @@
 This repository automates the creation of joint savings accounts on the Ethereum blockchain. A Solidity smart contract is created that accepts two user addresses. These addresses will be able to control a joint savings account.
 
 Instructions
-The steps for this homework are divided into the following sections:
+This Smart Contract Joint Savings account are divided into the following sections:
 
 
 1. Create a Joint Savings Account Contract in Solidity
