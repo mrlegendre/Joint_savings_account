@@ -1,7 +1,7 @@
 # Joint_savings_account
 ![](/Images/20-5-challenge-image.png)
 
-This repository automates the creation of joint savings accounts on the Ethereum blockchain. A Solidity smart contract is created that accepts two user addresses. These addresses will be able to control a joint savings account.
+This repository automates the creation of joint savings accounts on the Ethereum blockchain using Remix IDE. A Solidity smart contract in the main repository "joint_savings.sol" is created that accepts two user addresses. These addresses will be able to control a joint savings account.
 
 Instructions
 This Smart Contract Joint Savings account are divided into the following sections:
@@ -16,7 +16,7 @@ This Smart Contract Joint Savings account are divided into the following section
 3. Interact with Your Deployed Smart Contract
 
 
-Test the functionality of the smart contract send the following amounts of ether. 
+The Screenshots below test the functionality of the smart contract send the following amounts of ether. 
 
 ## Set Accounts
 ![](/Execution_Results/deploy1.png)
