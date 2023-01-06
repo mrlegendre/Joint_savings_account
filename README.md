@@ -15,6 +15,8 @@ This Smart Contract Joint Savings account are divided into the following section
 
 3. Interact with Your Deployed Smart Contract
 
+To test transactions the REMIX VM based wallet in REMIX's IDE was utilized.
+
 
 The Screenshots below test the functionality of the smart contract send the following amounts of ether. 
 
